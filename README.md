@@ -1,2 +1,2 @@
 # FlaskRestplusExample
-this repo has an example of flask restyles application
+this repo has an example of flask restplus application
